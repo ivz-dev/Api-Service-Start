@@ -1,0 +1,13 @@
+{
+  "ServiceName": "Api-Service",
+  "DefaultPort": "8080",
+  "Database": {
+    "name": "TestApi",
+    "user": "sirin",
+    "password": "sirin123",
+    "host": "localhost",
+    "host_read": "localhost",
+    "port": 3306,
+    "dialect": "mysql"
+  }
+}

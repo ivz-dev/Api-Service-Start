@@ -1,0 +1,7 @@
+parameters:
+  userId:
+    name: id
+    description: User ID
+    in: path
+    required: true
+    type: number
